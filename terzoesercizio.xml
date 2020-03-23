@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Questo esercizio era sbagliato poichè conteneva un errore sintattico: si presentava un chiusura in più dell' elemento 
+	text.
+	Questo errore è stato trovato e risolto mediante XMLLINT che interrogato ha risposto con il seguente errore:
+	terzoesercizio.xml:5: parser error : Extra content at the end of the document
+	<text />
+	L' errore è stato risolto cancellandolo.
+	-->
+<text>
+    <testoprofessore>il primo xml con validazione</testoprofessore>
+    <testomatteo>fratello dell'elemento precedente</testomatteo>
+</text>
+
