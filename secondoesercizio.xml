@@ -1,5 +1,11 @@
 <?xml version="1.0"    encoding="UTF-8" standalone="yes"?>
-
+<!--Questo esercizio è volutamente sbagliato per dimostrare che XML non permette l' overlapping.
+	XMLLINT infatti, se interrogato da terminale, risponde con questo errore:
+	secondoesercizio.xml:4: parser error : Opening and ending tag mismatch: secondogenito line 4 and primogenito
+	<primogenito>Marco <secondogenito> è il maggiore </primogenito>
+	                                                                ^
+	secondoesercizio.xml:5: parser error : Opening and ending tag mismatch: primogenito line 4 and secondogenito
+	Giacomo è il minore    </secondogenito>-->
 <Babbo>
 	<primogenito>Marco <secondogenito> è il maggiore </primogenito>
 	Giacomo è il minore    </secondogenito>
