@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "./sestoesercizio.dtd" >
+
+<TEI>
+    <header type="intestazione">
+
+    </header>
+
+    <facsimile source="salve">
+            
+    </facsimile>
+
+     <testo id="matteo">
+            Questo è il sesto esercizio di Matteo Sarzanini<seg>studente </seg>
+            di Informatica Umanistica.
+     </testo>
+
+</TEI>
+
+<!--Autore: Matteo Sarzanini
+    Matricola: 560168
+    -->
