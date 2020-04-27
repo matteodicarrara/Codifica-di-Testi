@@ -1,0 +1,18 @@
+<? xml version="1.0" encoding="utf-8"?>
+<!--Esercizio Well Formed-->
+<text>
+     <titolo>A Qualcuno piace Cracco</titolo>
+     <intestazione>Finanziera</intestazione>
+
+
+    <pagina n="20"/>
+        
+        <p>La Finanziera è un piatto nato nell' Ottocento, veniva servito soprattutto durante colazioni di lavoro
+            molto importanti in cui i commensali [...]
+        </p>
+        <p>Nella ricetta tradizionale ci sono le animelle, le cervella, i filoni, le rigaglie di pollo e spesso si arricchi-
+
+    <pagina n="21"/> va il tutto con carne di vitello per trasformarlo in un piatto a sè, più completo.
+        </p>
+    
+</text>
